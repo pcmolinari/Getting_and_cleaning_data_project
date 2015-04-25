@@ -1,5 +1,5 @@
-
-setwd("~/excercise_getting_and_cleaning/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset")
+### seting directory . not necessary for the delivery
+### setwd("~/excercise_getting_and_cleaning/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset")
 
 
 ###### Step 0 read the different pieces of information and store them in variables
